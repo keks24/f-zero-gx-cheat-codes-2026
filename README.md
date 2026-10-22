@@ -5,17 +5,17 @@ Enter the following cheat codes, while being on the `F-Zero Shop` screen; the `a
 ### `One-controller` inputs
 #### All AX Machines Unlocked
 ```no-highlight
-X Y ← → Z Z → ← Y X Z Z Y Y → → →
+X Y ◄ ► Z Z ► ◄ Y X Z Z Y Y ► ► ►
 ```
 
 #### Dark Schneider Unlocked
 ```no-highlight
-Z Z Z X X X X Y Y ← ← → → → Y Y
+Z Z Z X X X X Y Y ◄ ◄ ► ► ► Y Y
  ```
 
 #### All AX Courses Unlocked:
 ```no-highlight
-X X ← → Y Z Z Y ← → X ← → Z X → ← Y Y
+X X ◄ ► Y Z Z Y ◄ ► X ◄ ► Z X ► ◄ Y Y
 ```
 
 ### `Four-controller simultaneous` inputs (`gold parts`):
@@ -26,22 +26,22 @@ X Z Y Z X Z Y X
 
 #### El Dorado:
 ```no-highlight
-X → X Z Y ← ← Z
+X ► X Z Y ◄ ◄ Z
 ```
 
 #### Chrono Symphony:
 ```no-highlight
-← → Z → ← X → Z
+◄ ► Z ► ◄ X ► Z
 ```
 
 #### Bahamut:
 ```no-highlight
-Y Y Z → ← Z X Y
+Y Y Z ► ◄ Z X Y
 ```
 
 #### Glacator:
 ```no-highlight
-→ Z X ← ← → Z X
+► Z X ◄ ◄ ► Z X
 ```
 
 ### Image
